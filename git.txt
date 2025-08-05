@@ -1,0 +1,7 @@
+echo "# END_END_ML" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Arunava-Chakraborty/END_END_ML.git
+git push -u origin main
